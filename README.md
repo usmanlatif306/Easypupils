@@ -57,14 +57,14 @@ The best script for building the modern web fintech application.
 
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2Fscreenshot-localhost-2023.09.19-19_19_30.png?alt=media&token=19170285-e450-4e76-9bcb-b7d9ae8cf22a)
 
-![App Screenshot](<https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2FScreenshot%20(339).png?alt=media&token=82d487ac-28de-469b-8b49-a73a85458f18>)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2FScreenshot%20(339).png?alt=media&token=82d487ac-28de-469b-8b49-a73a85458f18)
 
-![App Screenshot](<https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2FScreenshot%20(340).png?alt=media&token=687b119a-3c9b-4bd8-a7db-ba1a8af42ffd>)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2FScreenshot%20(340).png?alt=media&token=687b119a-3c9b-4bd8-a7db-ba1a8af42ffd)
 
-![App Screenshot](<https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2FScreenshot%20(341).png?alt=media&token=3499103b-c146-45f7-a2ea-6289ad898a63>)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2FScreenshot%20(341).png?alt=media&token=3499103b-c146-45f7-a2ea-6289ad898a63)
 
-![App Screenshot](<https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2FScreenshot%20(342).png?alt=media&token=5b2141d1-9c7a-4643-8ea1-61081e05b923>)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2FScreenshot%20(342).png?alt=media&token=5b2141d1-9c7a-4643-8ea1-61081e05b923)
 
-![App Screenshot](<https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2FScreenshot%20(343).png?alt=media&token=077dbde9-2f62-4caa-b758-04fb4549951c>)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2FScreenshot%20(343).png?alt=media&token=077dbde9-2f62-4caa-b758-04fb4549951c)
 
-![App Screenshot](<https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2FScreenshot%20(344).png?alt=media&token=3ea426fe-3ee8-4e40-b27b-daf8b85fd99c>)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/laravel-notification-22697.appspot.com/o/easypupils%2FScreenshot%20(344).png?alt=media&token=3ea426fe-3ee8-4e40-b27b-daf8b85fd99c)
